@@ -1,4 +1,4 @@
-# Count ways to increase LCS length of two strings by one
+# Longest Common Subsequence (LCS) length by one.
 # two string will be pass if the string2 have elements in string1 the result will be the common element
 
 def substring(string1,string2):
